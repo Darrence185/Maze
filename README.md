@@ -1,2 +1,2 @@
-# Maze
+
 ALX Portfolio Project
